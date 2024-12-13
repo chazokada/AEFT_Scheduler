@@ -2,3 +2,6 @@ images/*
 dag/*
 daggen-master/*
 *.pkl
+__pycache__/
+.ipynb_checkpoints/
+*.tar.gz
